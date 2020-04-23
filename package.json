@@ -1,0 +1,22 @@
+{
+  "name": "@langnang/github-packages-npm-demo",
+  "version": "1.0.1",
+  "description": "a demo of GitHub packages of type npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langnang/github-packages-npm-demo.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "langnang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langnang/github-packages-npm-demo/issues"
+  },
+  "homepage": "https://github.com/langnang/github-packages-npm-demo#readme"
+}
